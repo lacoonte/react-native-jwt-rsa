@@ -1,0 +1,28 @@
+{
+  "name": "react-native-jwt-rsa",
+  "version": "1.0.0",
+  "description": "JWT library compatible with React Native for RS256 token signing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alvarorece/react-native-jwt-rsa.git"
+  },
+  "keywords": [
+    "rsa",
+    "react",
+    "native",
+    "jwt"
+  ],
+  "author": "alvarorece",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alvarorece/react-native-jwt-rsa/issues"
+  },
+  "homepage": "https://github.com/alvarorece/react-native-jwt-rsa#readme",
+  "dependencies": {
+    "node-forge": "^0.10.0"
+  }
+}
